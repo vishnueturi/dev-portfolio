@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </ScrollReveal>
 
-          <ScrollReveal delay={0.2}>
+          {/* <ScrollReveal delay={0.2}>
             <div className="border border-gray-300 dark:border-white/10 rounded-lg p-6 bg-gray-100 text-center dark:bg-white/5">
               <h2 className="text-xl font-semibold mb-2 text-black dark:text-white">
                 GitHub Repositories
@@ -53,7 +53,7 @@ export default function Home() {
                 Coming soon — auto-fetched from my GitHub profile.
               </p>
             </div>
-          </ScrollReveal>
+          </ScrollReveal> */}
         </div>
       </section>
     </Container>

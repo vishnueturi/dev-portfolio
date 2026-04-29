@@ -48,9 +48,9 @@ export default function Contact() {
         <h1 className="text-3xl md:text-5xl font-extrabold text-foreground mb-4 tracking-tight">
           Contact
         </h1>
-        <p className="text-lg md:text-xl text-foreground/80 mb-6">
-          You can use below super powers to say hi!
-        </p>
+        {/* <p className="text-lg md:text-xl text-foreground/80 mb-6">
+          You can use below form to say hi!
+        </p> */}
         <div className="flex items-center gap-6 mb-8">
           <a
             href="mailto:eturivishnu@gmail.com"
