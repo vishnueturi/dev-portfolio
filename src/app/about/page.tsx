@@ -95,10 +95,10 @@ export default function About() {
           <p className="text-lg md:text-xl text-foreground/80 mb-6 max-w-3xl">
             Developer with 6+ years of experience in building scalable front-end applications using
             Vue.js, .NET Core. Expertise in creating responsive, high-performance web applications
-            using JavaScript, TypeScript, HTML, and CSS, with a strong understanding of accessibility, usability
-            principles, and cross-browser compatibility. Proven ability to design and deliver
-            features in an agile environment, with hands-on experience in working across both
-            front-end and back-end technologies.
+            using JavaScript, TypeScript, HTML, and CSS, with a strong understanding of
+            accessibility, usability principles, and cross-browser compatibility. Proven ability to
+            design and deliver features in an agile environment, with hands-on experience in working
+            across both front-end and back-end technologies.
           </p>
         </ScrollReveal>
         <ScrollReveal delay={0.2}>
